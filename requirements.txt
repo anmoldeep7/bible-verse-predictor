@@ -1,0 +1,12 @@
+flask
+matplotlib
+numpy
+pandas
+pandocfilters
+pickle-mixin
+pickleshare
+scikit-learn
+xgboost
+seaborn
+streamlit
+gunicorn==20.0.4 
